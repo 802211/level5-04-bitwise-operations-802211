@@ -30,6 +30,10 @@ public class Decimal_To_Binary {
 		 *          32	16	 8	 4	 2	 1
 		 *         
 		 *         43 in decimal is 101011 in binary!
+		 
+		 128 64 32 16 8 4 2 1 
 		 */
+		
+		
 	}
 }

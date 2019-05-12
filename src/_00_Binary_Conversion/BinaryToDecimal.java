@@ -24,6 +24,8 @@ public class BinaryToDecimal {
 				    16 + 4 + 2 = 22
 				    010110 in binary is equal to 22 in decimal!
 		 
+		 
+		512 256 128 64 32 16 8 4 2 1
 		 */
 	}
 }
